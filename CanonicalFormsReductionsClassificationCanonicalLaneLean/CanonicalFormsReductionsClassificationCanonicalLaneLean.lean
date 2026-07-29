@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CanonicalFormsReductionsClassificationCanonicalLaneLean
+
+-- Root module for the Canonical Forms Reductions Classification package.
+
+end CanonicalFormsReductionsClassificationCanonicalLaneLean
+end HautevilleHouse

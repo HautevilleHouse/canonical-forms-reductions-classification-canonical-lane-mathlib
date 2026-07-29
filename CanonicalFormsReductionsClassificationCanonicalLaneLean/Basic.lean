@@ -1,0 +1,2 @@
+import CanonicalFormsReductionsClassificationCanonicalLaneLean.GateLemmas
+import CanonicalFormsReductionsClassificationCanonicalLaneLean.FinalTheorem
